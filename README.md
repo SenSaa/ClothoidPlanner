@@ -8,6 +8,8 @@ The user has access to set the orientation intervals, number of trajectories, or
 
 https://user-images.githubusercontent.com/19212519/206912310-5a79e4ed-bcb1-41b4-9830-7d1733a0a84f.mov
 
+![image](https://user-images.githubusercontent.com/19212519/206912459-f91c99a8-3248-4482-a302-6b77389de4d8.png)
+
 Based on: The python implementation: https://github.com/AtsushiSakai/PythonRobotics 
 Paper: Fast and accurate G1 fitting of clothoid curves
 https://www.researchgate.net/publication/237062806
