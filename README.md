@@ -1,5 +1,5 @@
 # ClothoidPlanner
-Clothoid Planner
+Clothoid Planner in Unity (C#)
 
 Clothoid planner generates multiple clothoid paths from multiple orientations (yaws/headings) at start points, to multiple orientations (yaws/headings) at goal point.
 It can be used for creating smooth trajectories during local planning.
